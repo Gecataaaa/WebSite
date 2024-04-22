@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebProjectNbu12.props" />
+</Project>

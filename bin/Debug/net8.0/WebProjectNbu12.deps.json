@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WebProjectNbu12/1.0.0": {
+        "runtime": {
+          "WebProjectNbu12.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebProjectNbu12/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
